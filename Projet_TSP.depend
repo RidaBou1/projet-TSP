@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1768011343 source:c:\users\ridab\desktop\projet_tsp_codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"tsp.h"
+
+1768011462 c:\users\ridab\desktop\projet_tsp_codeblocks\graph.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1768011528 c:\users\ridab\desktop\projet_tsp_codeblocks\tsp.h
+	"graph.h"
+
+1768011343 source:c:\users\ridab\desktop\projet_tsp_codeblocks\tsp.c
+	"tsp.h"
+	<string.h>
+
+1768010434 source:c:\users\ridab\desktop\projet_tsp_codeblocks\graph.c
+	"graph.h"
+	<string.h>
+
